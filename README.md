@@ -60,9 +60,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" />
 </a>
 
-</p>
 
-<p>
+
+
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge" />
 </p>
