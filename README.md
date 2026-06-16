@@ -13,9 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" />
-</a>
+
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" />
@@ -24,10 +22,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" height="42" />
 </a>
-
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge" />
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge" />
@@ -35,6 +29,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
 <img src="https://img.shields.io/badge/shadcn--ui-black?style=for-the-badge" />
 </p>
+
+
 
 ---
 
