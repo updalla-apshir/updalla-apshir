@@ -1,132 +1,33 @@
-<h1>Hi 👋, I'm Software Engineer</h1>
-<p>Building scalable and reliable systems for modern applications, from design to deployment.</p>
+<h1>Hi 👋, I'm a Software Engineer & ML/DL Engineer</h1>
 
----
+<p align="center"> Building scalable software systems and intelligent applications. </p>
 
-## 🚀 Frontend
+<br>
 
-<p>
+🧠 AI / ML
 
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+<p align="left"> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48"/></a> <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/></a> <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/></a> <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48"/></a> <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="48"/></a> <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="48"/></a> </p>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />
-</a>
+Machine Learning · Deep Learning · Computer Vision · YOLO · CNNs · Transfer Learning · LLMs · RAG
 
+<br>
 
+⚙️ Software Engineering
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" />
-</a>
+<p align="left"> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="48"/></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/></a> <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="48"/></a> <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48"/></a> </p>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" height="42" />
-</a>
+<br>
 
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/shadcn--ui-black?style=for-the-badge" />
-</p>
+🗄️ Data & Infrastructure
 
+<p align="left"> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></a> <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="48"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48"/></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48"/></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48"/></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48"/></a> </p>
 
+<br>
 
----
+🔬 Focus
 
-## ⚙️ Backend
+<p align="center"> <b>AI Engineering · Machine Learning · Deep Learning · Computer Vision · RAG · LLM Applications</b> </p>
 
-<p>
+<br>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" />
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" />
-</a>
-<a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" />
-</a>
-
-
-
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge" />
-</p>
-
----
-
-## 🏗️ Architecture & Systems
-
-<p>
-<img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge" />
-<img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Event_Driven-4A90E2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microservices-6C5CE7?style=for-the-badge" />
-</p>
-
----
-
-## ☁️ Infrastructure & DevOps
-
-<p>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" />
-</a>
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" />
-</a>
-
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VPS-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Monitoring-FFB300?style=for-the-badge" />
-</p>
-
----
-
-## 📦 Monorepo & Tooling
-
-<p>
-<img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Modular_Architecture-4A90E2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Shared_Libraries-7B61FF?style=for-the-badge" />
-</p>
-
----
-
-## ⚡️ Where to find me
-
-<p>
-<a href="https://dev.to/updalla_apshir">
-<img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to" />
-</a>
-
-<a href="https://www.linkedin.com/in/updalla-apshir-boore-090238325">
-<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+<p align="center"> <a href="https://github.com/updalla-apshir"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/> </a> <a href="https://www.linkedin.com/in/updalla-apshir-boore-090238325"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/> </a> <a href="https://boore.dev"> <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome"/> </a> </p>
