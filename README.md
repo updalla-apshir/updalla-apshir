@@ -8,12 +8,13 @@
 
 |                       |                                                                                                                                                           |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 **ML / DL**        | <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />                                                                                       |
+|  **ML / DL**        | <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />                                                                                         |
 | **Modeling**          | Supervised Learning · Deep Learning · CNNs · Transformers · Model Fine-tuning · Transfer Learning · Representation Learning · Hyperparameter Optimization |
 | **Computer Vision**   | YOLO · OpenCV · Object Detection · Custom Model Training                                                                                                  |
 | **AI Engineering**    | LLMs · RAG · Embeddings · Vector Search · AI Agents                                                                                                       |
 | **AI Infrastructure** | Model Serving · Inference Optimization · GPU Workloads · Concurrent Users                                                                                 |
-| ⚙️ **Backend**        | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" />                                                                                                |
+| ** OS ** | <img src="https://skillicons.dev/icons?i=ubuntu" />                                                                                                                    |  
+|  **Backend**        | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" />                                                                                          |
 | **Data & Storage**    | <img src="https://skillicons.dev/icons?i=postgres,redis" />                                                                                               |
 | **Infrastructure**    | <img src="https://skillicons.dev/icons?i=docker,linux,git" />                                                                                             |
 
