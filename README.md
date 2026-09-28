@@ -13,10 +13,10 @@
 | **Computer Vision**   | YOLO · OpenCV · Object Detection · Custom Model Training                                                                                                  |
 | **AI Engineering**    | LLMs · RAG · Embeddings · Vector Search · AI Agents                                                                                                       |
 | **AI Infrastructure** | Model Serving · Inference Optimization · GPU Workloads · Concurrent Users                                                                                 |
-| **OS** | <img src="https://skillicons.dev/icons?i=arch" />                                                                                                                    |  
+| **OS** | <img src="https://skillicons.dev/icons?i=linux" />                                                                                                                    |  
 |  **Backend**        | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" />                                                                                          |
 | **Data & Storage**    | <img src="https://skillicons.dev/icons?i=postgres,redis" />                                                                                               |
-| **Infrastructure**    | <img src="https://skillicons.dev/icons?i=docker,linux,git" />                                                                                             |
+| **Infrastructure**    | <img src="https://skillicons.dev/icons?i=docker,ubuntu,git" />                                                                                             |
 
 <br>
 
