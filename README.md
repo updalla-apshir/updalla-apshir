@@ -8,15 +8,15 @@ Building scalable software systems and intelligent applications.
 
 ## 🛠️ Tech Stack
 
-|                         |                                                                                         |
-| ----------------------- | --------------------------------------------------------------------------------------- |
-| 🧠 **AI / ML**          | <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,numpy,pandas" /> |
-| 👁️ **Computer Vision** | YOLO · CNNs · Object Detection · Transfer Learning                                      |
-| 🤖 **AI Systems**       | LLMs · RAG · AI Agents · MCP                                                            |
-| ⚙️ **Backend**          | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go" />                           |
-| 💻 **Frontend**         | <img src="https://skillicons.dev/icons?i=typescript,nextjs,react" />                    |
-| 🗄️ **Data**            | <img src="https://skillicons.dev/icons?i=postgres,redis" />                             |
-| ☁️ **Infrastructure**   | <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />                    |
+|                     |                                                                      |
+| ------------------- | -------------------------------------------------------------------- |
+| 🧠 **AI / ML**      | <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />  |
+| **Computer Vision** | YOLO · OpenCV · CNNs · Object Detection                              |
+| **AI Systems**      | LLMs · RAG · AI Agents · MCP                                         |
+| ⚙️ **Backend**      | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go" />        |
+| **Frontend**        | <img src="https://skillicons.dev/icons?i=typescript,nextjs,react" /> |
+| **Data**            | <img src="https://skillicons.dev/icons?i=postgres,redis" />          |
+| **Infrastructure**  | <img src="https://skillicons.dev/icons?i=docker,linux,git" />        |
 
 <br>
 
