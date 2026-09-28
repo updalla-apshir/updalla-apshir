@@ -1,31 +1,30 @@
 <h1>Hi 👋, I'm a Software Engineer & ML/DL Engineer</h1>
 
 <p align="center">
-Building scalable software systems and intelligent applications.
+Designing scalable software systems and building production-oriented AI/ML solutions.
 </p>
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Engineering Stack
 
-|                      |                                                                          |
-| -------------------- | ------------------------------------------------------------------------ |
-| 🧠 **AI / ML**       | <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />      |
-| **Machine Learning** | Supervised Learning · Model Evaluation · Fine-tuning · Transfer Learning |
-| **Deep Learning**    | CNNs · Neural Networks · Training & Optimization                         |
-| **Computer Vision**  | YOLO · OpenCV · Object Detection · Image Classification                  |
-| **AI Systems**       | LLMs · RAG · Vector Databases · AI Agents · MCP                          |
-| ⚙️ **Backend**       | <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />               |
-| **Frontend**         | <img src="https://skillicons.dev/icons?i=typescript,nextjs,react" />     |
-| **Data**             | <img src="https://skillicons.dev/icons?i=postgres,redis" />              |
-| **Infrastructure**   | <img src="https://skillicons.dev/icons?i=docker,linux,git" />            |
+|                     |                                                                                    |
+| ------------------- | ---------------------------------------------------------------------------------- |
+| 🧠 **ML / DL**      | <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />                |
+| **Modeling**        | Supervised Learning · Deep Learning · CNNs · Model Fine-tuning · Transfer Learning |
+| **Computer Vision** | YOLO · OpenCV · Object Detection · Image Classification                            |
+| **AI Engineering**  | LLMs · RAG · Embeddings · Vector Search · AI Agents                                |
+| ⚙️ **Backend**      | <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />                         |
+| **Frontend**        | <img src="https://skillicons.dev/icons?i=typescript,nextjs,react" />               |
+| **Data & Storage**  | <img src="https://skillicons.dev/icons?i=postgres,redis" />                        |
+| **Infrastructure**  | <img src="https://skillicons.dev/icons?i=docker,linux,git" />                      |
 
 <br>
 
-## 🔬 Focus
+## 🔬 Engineering Focus
 
 <p align="center">
-AI Engineering · Machine Learning · Deep Learning · Computer Vision · LLM Applications
+Machine Learning · Deep Learning · Computer Vision · LLM Systems · RAG · Scalable AI Infrastructure
 </p>
 
 <br>
