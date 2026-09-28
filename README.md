@@ -16,7 +16,7 @@
 | **OS** | <img src="https://skillicons.dev/icons?i=linux" />                                                                                                                    |  
 |  **Backend**        | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" />                                                                                          |
 | **Data & Storage**    | <img src="https://skillicons.dev/icons?i=postgres,redis" />                                                                                               |
-| **Infrastructure**    | <img src="https://skillicons.dev/icons?i=docker,ubuntu,git" />                                                                                             |
+| **Infrastructure**    | <img src="https://skillicons.dev/icons?i=docker,ubuntu,git,aws" />                                                                                             |
 
 <br>
 
