@@ -4,7 +4,7 @@
 
 <br>
 
-## 🛠️ Engineering Stack
+##  Engineering Stack
 
 |                       |                                                                                                                                                           |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@
 
 <br>
 
-## 🔬 Engineering Focus
+##  Engineering Focus
 
 <p align="center">
 Machine Learning · Deep Learning · Computer Vision · LLM Systems · RAG · Scalable AI Infrastructure
