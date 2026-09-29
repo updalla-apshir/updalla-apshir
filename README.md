@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm a Software Engineer & ML/DL Engineer</h1>
 
-<p align="center">Designing scalable software and building reliable AI/ML systems for production</p>
+<h3 align="center">Designing scalable software and building reliable AI/ML systems for production</h3>
 
 <br>
 
